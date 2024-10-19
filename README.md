@@ -23,10 +23,12 @@ To run the game on your local machine, follow these steps:
    ```bash
    git clone https://github.com/oumaimatun/Pokemon-Game.git
 2. **Navigate to the project directory**
-cd Pokemon-Game
-
+   ```bash
+   cd Pokemon-Game
 3. **Install dependencies**
-npm install
+   ```bash
+   npm install
 
 4. **Run the game**
-PokemonGame
+   ```bash
+   PokemonGame
